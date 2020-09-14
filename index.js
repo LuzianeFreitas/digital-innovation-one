@@ -1,8 +1,9 @@
 const TelegramBot = require('node-telegram-bot-api');
 const dialogflow = require('./dialogflow');
 const youtube = require('./youtube');
+require('dotenv').config();
 
-const token = '1342262228:AAFnnudjYfvNvaPxKg2gNpjCLUwEkVxJ9e0';
+const token = process.env.API_KEY;
 
 const bot = new TelegramBot(token, { polling: true });
 
