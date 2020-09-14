@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "digital-innovation-one-bo-swvn",
+  "private_key_id": "ef0846e78f820bf047f78ee89d3c5e1fd5fd508f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7eaHzJLnEEWEp\nFwSnIiR5712J7IibgLIY8uWTUuWhZ4vmnr0LJ/FECk3TUY+NLJyPSXMttR/MEXvv\naovG0599/aCXZ72qSVExXRdTV/aXpmRzY/DFcUOErmft4ZeE6LTqGbOTdlNIKn+f\nuPvOcCfTk6Lo9urmHdfvHFjuzpcGLhT2L6FLsv7loz9ajgoVysJcGz+oiKIYTGFI\nl5n3DaxwsSN4L1Qf1DxDtxygI4txRsH4SBAPJ8MPW887tBIGr9KuO5JKprE7eM00\n3KOxUzDs1I5FldE26ewIKKIB1UDv7uQuUchWWfl/CBAYtsWjxO6/2Z4KnjPP4Ggs\nRKlSusOBAgMBAAECggEABPwxk3JHnwxGAtJkDxhuI0CrYmVz9rwZ6EZNtuCcfvGu\nn3zbOqimzowOWJsdq8eq2FfP+HA9eqcAnlu9QKXMEvznfD0vxr9dOYh/3DlNoyfT\nWhrnSi3GSYj8dh+ygHASbvrs2rQJ2AR6yS3RYtJ6SaLOcT7PHVw/66Gbpwp+6zTq\n76rSs9x92ug75+oRWLdylmLBOfejNMS22Yx3BlBsYCcdzWh0DWjcuN5bExDTv/Bl\nouKNTKbBVkk5LadhpKy9M5jFDgnS0sEixrPB3+rT8hkAWFDxoW4IeEjVTe19SsMW\n3NAaBjQmbCcJeSvzxbMl4AIRMa5HCfKEZ/T2HIsUUQKBgQDqtbmSQ9U9jilA2amY\nP+gOD6Ve6c/e94Eel94I6a1LVPm46+yw7a9GRak4UM8s82womSFlcfsPsAJlVBLY\nu6EoyVylLdrVZiNA5ZDqytWA2LSpsbgw1AOu6AAdyfLxFTI2s1imXLyXx69juIEE\nzKSrgLRpdAMaIjk0RQD5Gb0uUQKBgQDMew3quC5x2zt6qGAfkRMzZCl5QiSy3291\nXmfcf89Has3/2W15RFqm1bD8eipM4TEHfI7yfc20SzAHrLIn/yexA+X7kHquKeYz\n8igUItPmt8KVV8mLupCvPP90RNdrE5hryz2coMd6OOrwc5MuMaMVh1+Re/T60JRW\nqHmi6L8GMQKBgF3aONAx66znkbtqzhQhScuFmhzv5b1Evw7ar2BlAHSlEA5P2J+P\nC41QAbCRL6bL164MPXxxLXFCclLOYZLkxDao/jDWuzCl3ObwZRhd7y3MecF5XSu5\nO5fPEWzX+htI3IFfCc3MO2V95bY8aureYeJqXrnkN/FVSgaKqS7yieFhAoGBALPU\nNLUMLaxsBa8ljQO17pDvsZm2ldfJsJgj4muE66H/SBOOADz55E989x3TwofCNABF\nhuGzyciZpy/YrQWH3DxNFWFb+shYiN9+Q8kRqBHr4fC9N77u4Hd8yZxTPrAol4+V\nOiYZL9VJYTT+L54cgTRZza6AuT4rWYmsuOyQjA7BAoGBAOTe+iiCwh4kygs4M0hp\noUv4IcyAozKTuiR02QfFcyU2yFNSJZIzhUxDfvO8Oig/i5srPtPbUGCAJUPhMADd\nrBQEsl6+PT+8SP3c3fOCNa9xFqKq0iwentuxkLrXoaIMCYTFw6nT0VqnImEZax3t\n99PQRcrkLs1KlO256gqFX3RK\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-ogelwy@digital-innovation-one-bo-swvn.iam.gserviceaccount.com",
+  "client_id": "118228782884157654397",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-ogelwy%40digital-innovation-one-bo-swvn.iam.gserviceaccount.com"
+}
