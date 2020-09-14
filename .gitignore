@@ -1,0 +1,4 @@
+.env
+node_modules/
+dio-bot-fit.json
+yt-config.json
